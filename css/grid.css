@@ -2,7 +2,7 @@
    Grid Layout
 ======================================== */
 
-.grid {
+.gallery {
     margin: 0 auto;
     max-width: 860px;
     display: grid;
