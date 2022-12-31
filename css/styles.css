@@ -1,10 +1,22 @@
-.title {
+
+main {
+     margin: 0 auto;
+}
+
+.searchbar {
     display: flex;
     justify-content: center;
+    margin: 100px 0 50px 0;
+}
+
+input {
+    border: solid 2px rgb(190, 190, 190);
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    max-width: 50vh;
+    min-height: 5vh;
+    padding-left: 10px;
 }
 
 
-
-h1 {
-    color: blueviolet;
-}
